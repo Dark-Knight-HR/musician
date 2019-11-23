@@ -1,2 +1,2 @@
 # View Project 
-## [Trap Master](https://devhabib.github.io/musician/)
+## [Musician](https://www.devhabib.com/projects/musician/)
